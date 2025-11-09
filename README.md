@@ -1,4 +1,4 @@
-# Linux-File-Explorer-Cpastone-Project
+# Linux-File-Explorer-Capstone-Project
 A comprehensive console-based file management application built with C++ for Linux Operating Systems
 
 Project Overview
